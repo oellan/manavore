@@ -1,5 +1,6 @@
 ###> CUSTOM ###
 .idea/
+docker-compose.override.yml
 ###< CUSTOM ###
 
 ###> symfony/framework-bundle ###
